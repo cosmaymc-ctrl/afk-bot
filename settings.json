@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "cosmaymc.aternos.me:27625",
+    "port": 27625,
     "version": "",
     "try-creative": false
   },
